@@ -1,0 +1,45 @@
+# Unity generated folders
+Library/
+Logs/
+Temp/
+Obj/
+UserSettings/
+
+# Visual Studio & Rider
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.cache
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+*.csproj
+*.sln
+*.csproj.user
+*.csproj.userprefs
+*.orig
+
+# Packages
+Packages/*
+
+# Cache files
+*.bak
+*.log
+*.tmp
+*.DS_Store
+*.swp
+*.lock
+
+# Builds
+Builds/
+Build/
+
+# Unity-specific settings
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/ProjectVersion.txt
+
+# Ignore .gitignore itself
+!.gitignore
